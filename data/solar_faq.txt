@@ -1,0 +1,17 @@
+Q: What is a rooftop solar net metering system?
+A: It's a solar panel system installed on a residential, commercial, institutional, or industrial rooftop, connected to the grid. The system converts DC power from solar panels into AC power and feeds it into the grid using a net (bidirectional) meter.
+
+Q: How does solar net metering work?
+A: Your rooftop solar system generates power that's used directly or fed into the grid via a bidirectional meter, which tracks both the power you draw and the power you supply back.
+
+Q: What happens to excess solar power I generate but don't use?
+A: If your solar system generates more electricity than you consume in a billing period, the excess units get banked in your bidirectional meter and can be used later in the same billing month.
+
+Q: Does Torrent Power buy my surplus solar units if I don't use them?
+A: Yes, if excess units remain unused after adjustment, Torrent Power purchases them at a rate set by the regulator, revised periodically.
+
+Q: Who provides the net meter for a solar connection?
+A: Torrent Power provides the net (import/export) meter. Customers can also purchase their own meter per Torrent Power's specifications, available on their customer portal.
+
+Q: How do I apply for a rooftop solar connection?
+A: You apply through an empaneled solar vendor, who submits documents and a connectivity agreement at the Torrent Power office. After feasibility approval by the Torrent Power team, the process moves forward.
