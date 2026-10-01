@@ -18,7 +18,7 @@ const userInput = document.getElementById("userInput");
 const sendBtn = document.getElementById("sendBtn");
 const emptyState = document.getElementById("emptyState");
 
-const STREAM_URL = "http://127.0.0.1:8000/ask/stream";
+const STREAM_URL = "https://voltassist.onrender.com/ask/stream";
 
 let conversationHistory = [];
 
